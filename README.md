@@ -6,12 +6,19 @@ The goals of this project is to apply the data preparation knowledge and to trai
 ## The technical requirements for this project are as follows:
 
 Import the provided data using Pandas.
+
 Examine the data for potential issues (missing data, data inconsistency, outliers, duplicates etc).
+
 Apply the different cleaning and manipulation techniques.
+
 Explain all the approaches you are going to use (why and how)
+
 Produce a Python code that shows the steps you took and the code you used to clean and transform your data set.
+
 Export clean version of your data into CSV file using Pandas.
+
 Export clean data into MySQL using Pandas.
+
 Prepare at least 3 tables analyzing the dataset in MySQL. Consider using group by statement for it.
 
 
