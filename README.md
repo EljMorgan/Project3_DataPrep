@@ -15,7 +15,8 @@ Export clean data into MySQL using Pandas.
 Prepare at least 3 tables analyzing the dataset in MySQL. Consider using group by statement for it.
 
 
-#Our project organizatiion
+# Our project organizatiion
+## Step by step (SQL part still in progress a cause limited timing)
 1. Starting from analyzing data
 2. Rounding numeric values till 2 after coma
 3. Looking for columns names issue
