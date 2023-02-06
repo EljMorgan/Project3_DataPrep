@@ -31,4 +31,6 @@ Prepare at least 3 tables analyzing the dataset in MySQL. Consider using group b
 12. Trying some interesting calculation 
 13. Exporting cleaned data in csv
 
+## *SQL Part would be here 
+
 
